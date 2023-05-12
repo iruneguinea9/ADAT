@@ -1,0 +1,628 @@
+<?xml version="1.0" ?>
+<juego_tronos>
+	<batalla id="1">
+		<nombre>Battle of the Golden Tooth</nombre>
+		<anio>298</anio>
+		<region>The Westerlands</region>
+		<localizacion>Golden Tooth</localizacion>
+		<ataque tamanio="15000" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Jaime Lannister</comandante>
+			<familia>Lannister</familia>
+		</ataque>
+		<defensa tamanio="4000" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Clement Piper, Vance</comandante>
+			<familia>Tully</familia>
+		</defensa>
+	</batalla>
+	<batalla id="2">
+		<nombre>Battle at the Mummer's Ford</nombre>
+		<anio>298</anio>
+		<region>The Riverlands</region>
+		<localizacion>Mummer's Ford</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Gregor Clegane</comandante>
+			<familia>Lannister</familia>
+		</ataque>
+		<defensa tamanio="120" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Beric Dondarrion</comandante>
+			<familia>Baratheon</familia>
+		</defensa>
+	</batalla>
+	<batalla id="3">
+		<nombre>Battle of Riverrun</nombre>
+		<anio>298</anio>
+		<region>The Riverlands</region>
+		<localizacion>Riverrun</localizacion>
+		<ataque tamanio="15000" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Jaime Lannister, Andros Brax</comandante>
+			<familia>Lannister</familia>
+		</ataque>
+		<defensa tamanio="10000" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Edmure Tully, Tytos Blackwood</comandante>
+			<familia>Tully</familia>
+		</defensa>
+	</batalla>
+	<batalla id="4">
+		<nombre>Battle of the Green Fork</nombre>
+		<anio>298</anio>
+		<region>The Riverlands</region>
+		<localizacion>Green Fork</localizacion>
+		<ataque tamanio="18000" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Roose Bolton, Wylis Manderly, Medger Cerwyn, Harrion Karstark, Halys Hornwood</comandante>
+			<familia>Stark</familia>
+		</ataque>
+		<defensa tamanio="20000" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Tywin Lannister, Gregor Clegane, Kevan Lannister, Addam Marbrand</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="5">
+		<nombre>Battle of the Whispering Wood</nombre>
+		<anio>298</anio>
+		<region>The Riverlands</region>
+		<localizacion>Whispering Wood</localizacion>
+		<ataque tamanio="1875" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Robb Stark, Brynden Tully</comandante>
+			<familia>Stark</familia>
+			<familia>Tully</familia>
+		</ataque>
+		<defensa tamanio="6000" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Jaime Lannister</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="6">
+		<nombre>Battle of the Camps</nombre>
+		<anio>298</anio>
+		<region>The Riverlands</region>
+		<localizacion>Riverrun</localizacion>
+		<ataque tamanio="6000" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Robb Stark, Tytos Blackwood, Brynden Tully</comandante>
+			<familia>Stark</familia>
+			<familia>Tully</familia>
+		</ataque>
+		<defensa tamanio="12625" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Lord Andros Brax, Forley Prester</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="7">
+		<nombre>Sack of Darry</nombre>
+		<anio>298</anio>
+		<region>The Riverlands</region>
+		<localizacion>Darry</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Gregor Clegane</comandante>
+			<familia>Lannister</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Lyman Darry</comandante>
+			<familia>Darry</familia>
+		</defensa>
+	</batalla>
+	<batalla id="8">
+		<nombre>Battle of Moat Cailin</nombre>
+		<anio>299</anio>
+		<region>The North</region>
+		<localizacion>Moat Cailin</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Victarion Greyjoy</comandante>
+			<familia>Greyjoy</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>No Commander</comandante>
+			<familia>Stark</familia>
+		</defensa>
+	</batalla>
+	<batalla id="9">
+		<nombre>Battle of Deepwood Motte</nombre>
+		<anio>299</anio>
+		<region>The North</region>
+		<localizacion>Deepwood Motte</localizacion>
+		<ataque tamanio="1000" gana="S">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Asha Greyjoy</comandante>
+			<familia>Greyjoy</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>No Commander</comandante>
+			<familia>Stark</familia>
+		</defensa>
+	</batalla>
+	<batalla id="10">
+		<nombre>Battle of the Stony Shore</nombre>
+		<anio>299</anio>
+		<region>The North</region>
+		<localizacion>Stony Shore</localizacion>
+		<ataque tamanio="264" gana="S">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Theon Greyjoy</comandante>
+			<familia>Greyjoy</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>No Commander</comandante>
+			<familia>Stark</familia>
+		</defensa>
+	</batalla>
+	<batalla id="11">
+		<nombre>Battle of Torrhen's Square</nombre>
+		<anio>299</anio>
+		<region>The North</region>
+		<localizacion>Torrhen's Square</localizacion>
+		<ataque tamanio="244" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Rodrik Cassel, Cley Cerwyn</comandante>
+			<familia>Stark</familia>
+		</ataque>
+		<defensa tamanio="900" gana="N">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Dagmer Cleftjaw</comandante>
+			<familia>Greyjoy</familia>
+		</defensa>
+	</batalla>
+	<batalla id="12">
+		<nombre>Battle of Winterfell</nombre>
+		<anio>299</anio>
+		<region>The North</region>
+		<localizacion>Winterfell</localizacion>
+		<ataque tamanio="20" gana="S">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Theon Greyjoy</comandante>
+			<familia>Greyjoy</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Bran Stark</comandante>
+			<familia>Stark</familia>
+		</defensa>
+	</batalla>
+	<batalla id="13">
+		<nombre>Sack of Torrhen's Square</nombre>
+		<anio>299</anio>
+		<region>The North</region>
+		<localizacion>Torrhen's Square</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Dagmer Cleftjaw</comandante>
+			<familia>Greyjoy</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>No Commander</comandante>
+			<familia>Stark</familia>
+		</defensa>
+	</batalla>
+	<batalla id="14">
+		<nombre>Sack of Winterfell</nombre>
+		<anio>299</anio>
+		<region>The North</region>
+		<localizacion>Winterfell</localizacion>
+		<ataque tamanio="618" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Ramsay Snow, Theon Greyjoy </comandante>
+			<familia>Bolton</familia>
+			<familia>Greyjoy</familia>
+		</ataque>
+		<defensa tamanio="2000" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Rodrik Cassel, Cley Cerwyn, Leobald Tallhart</comandante>
+			<familia>Stark</familia>
+		</defensa>
+	</batalla>
+	<batalla id="15">
+		<nombre>Battle of Oxcross</nombre>
+		<anio>299</anio>
+		<region>The Westerlands</region>
+		<localizacion>Oxcross</localizacion>
+		<ataque tamanio="6000" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Robb Stark, Brynden Tully</comandante>
+			<familia>Stark</familia>
+			<familia>Tully</familia>
+		</ataque>
+		<defensa tamanio="10000" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Stafford Lannister, Roland Crakehall, Antario Jast</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="16">
+		<nombre>Siege of Storm's End</nombre>
+		<anio>299</anio>
+		<region>The Stormlands</region>
+		<localizacion>Storm's End</localizacion>
+		<ataque tamanio="5000" gana="S">
+			<rey>Stannis Baratheon</rey>
+			<comandante>Stannis Baratheon, Davos Seaworth</comandante>
+			<familia>Baratheon</familia>
+		</ataque>
+		<defensa tamanio="20000" gana="N">
+			<rey>Renly Baratheon</rey>
+			<comandante>Renly Baratheon, Cortnay Penrose, Loras Tyrell, Randyll Tarly, Mathis Rowan</comandante>
+			<familia>Baratheon</familia>
+		</defensa>
+	</batalla>
+	<batalla id="17">
+		<nombre>Battle of the Fords</nombre>
+		<anio>299</anio>
+		<region>The Riverlands</region>
+		<localizacion>Red Fork</localizacion>
+		<ataque tamanio="20000" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Tywin Lannister, Flement Brax, Gregor Clegane, Addam Marbrand, Lyle Crakehall, Leo Lefford</comandante>
+			<familia>Lannister</familia>
+		</ataque>
+		<defensa tamanio="10000" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Edmure Tully, Jason Mallister, Karyl Vance</comandante>
+			<familia>Tully</familia>
+		</defensa>
+	</batalla>
+	<batalla id="18">
+		<nombre>Sack of Harrenhal</nombre>
+		<anio>299</anio>
+		<region>The Riverlands</region>
+		<localizacion>Harrenhal</localizacion>
+		<ataque tamanio="100" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Roose Bolton, Vargo Hoat, Robett Glover</comandante>
+			<familia>Stark</familia>
+		</ataque>
+		<defensa tamanio="100" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Amory Lorch</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="19">
+		<nombre>Battle of the Crag</nombre>
+		<anio>299</anio>
+		<region>The Westerlands</region>
+		<localizacion>Crag</localizacion>
+		<ataque tamanio="6000" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Robb Stark, Smalljon Umber, Black Walder Frey</comandante>
+			<familia>Stark</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Rolph Spicer</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="20">
+		<nombre>Battle of the Blackwater</nombre>
+		<anio>299</anio>
+		<region>The Crownlands</region>
+		<localizacion>King's Landing</localizacion>
+		<ataque tamanio="21000" gana="N">
+			<rey>Stannis Baratheon</rey>
+			<comandante>Stannis Baratheon, Imry Florent, Guyard Morrigen, Rolland Storm, Salladhor Saan, Davos Seaworth</comandante>
+			<familia>Baratheon</familia>
+		</ataque>
+		<defensa tamanio="7250" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Tyrion Lannister, Jacelyn Bywater, Sandor Clegane, Tywin Lannister, Garlan Tyrell, Mace Tyrell, Randyll Tarly</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="21">
+		<nombre>Siege of Darry</nombre>
+		<anio>299</anio>
+		<region>The Riverlands</region>
+		<localizacion>Darry</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Helman Tallhart</comandante>
+			<familia>Darry</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>No Commander</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="22">
+		<nombre>Battle of Duskendale</nombre>
+		<anio>299</anio>
+		<region>The Crownlands</region>
+		<localizacion>Duskendale</localizacion>
+		<ataque tamanio="3000" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Robertt Glover, Helman Tallhart</comandante>
+			<familia>Stark</familia>
+		</ataque>
+		<defensa tamanio="0" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Randyll Tarly, Gregor Clegane</comandante>
+			<familia>Lannister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="23">
+		<nombre>Battle of the Burning Septry</nombre>
+		<anio>299</anio>
+		<region>The Riverlands</region>
+		<localizacion>no place</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>No King</rey>
+			<comandante>No Commander</comandante>
+			<familia>Brotherhood without Banners</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>No King</rey>
+			<comandante>No Commander</comandante>
+			<familia>Brave Companions</familia>
+		</defensa>
+	</batalla>
+	<batalla id="24">
+		<nombre>Battle of the Ruby Ford</nombre>
+		<anio>299</anio>
+		<region>The Riverlands</region>
+		<localizacion>Ruby Ford</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Gregor Clegane</comandante>
+			<familia>Lannister</familia>
+		</ataque>
+		<defensa tamanio="6000" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Roose Bolton, Wylis Manderly</comandante>
+			<familia>Stark</familia>
+		</defensa>
+	</batalla>
+	<batalla id="25">
+		<nombre>Retaking of Harrenhal</nombre>
+		<anio>299</anio>
+		<region>The Riverlands</region>
+		<localizacion>Harrenhal</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Gregor Clegane</comandante>
+			<familia>Lannister</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>No King</rey>
+			<comandante>Vargo Hoat</comandante>
+			<familia>Brave Companions</familia>
+		</defensa>
+	</batalla>
+	<batalla id="26">
+		<nombre>The Red Wedding</nombre>
+		<anio>299</anio>
+		<region>The Riverlands</region>
+		<localizacion>The Twins</localizacion>
+		<ataque tamanio="3500" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Walder Frey, Roose Bolton, Walder Rivers</comandante>
+			<familia>Frey</familia>
+			<familia>Bolton</familia>
+		</ataque>
+		<defensa tamanio="3500" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Robb Stark</comandante>
+			<familia>Stark</familia>
+		</defensa>
+	</batalla>
+	<batalla id="27">
+		<nombre>Siege of Seagard</nombre>
+		<anio>299</anio>
+		<region>The Riverlands</region>
+		<localizacion>Seagard</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Robb Stark</rey>
+			<comandante>Walder Frey</comandante>
+			<familia>Frey</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Jason Mallister</comandante>
+			<familia>Mallister</familia>
+		</defensa>
+	</batalla>
+	<batalla id="28">
+		<nombre>Battle of Castle Black</nombre>
+		<anio>300</anio>
+		<region>Beyond the Wall</region>
+		<localizacion>Castle Black</localizacion>
+		<ataque tamanio="100000" gana="N">
+			<rey>Stannis Baratheon</rey>
+			<comandante>Mance Rayder, Tormund Giantsbane, Harma Dogshead, Magnar Styr, Varamyr</comandante>
+			<familia>Free folk</familia>
+			<familia>Thenns</familia>
+			<familia>Giants</familia>
+		</ataque>
+		<defensa tamanio="1240" gana="S">
+			<rey>Mance Rayder</rey>
+			<comandante>Stannis Baratheon, Jon Snow, Donal Noye, Cotter Pyke</comandante>
+			<familia>Night's Watch</familia>
+			<familia>Baratheon</familia>
+		</defensa>
+	</batalla>
+	<batalla id="29">
+		<nombre>Fall of Moat Cailin</nombre>
+		<anio>300</anio>
+		<region>The North</region>
+		<localizacion>Moat Cailin</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Ramsey Bolton</comandante>
+			<familia>Bolton</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>No Commander</comandante>
+			<familia>Greyjoy</familia>
+		</defensa>
+	</batalla>
+	<batalla id="30">
+		<nombre>Sack of Saltpans</nombre>
+		<anio>300</anio>
+		<region>The Riverlands</region>
+		<localizacion>Saltpans</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>No King</rey>
+			<comandante>Rorge</comandante>
+			<familia>Brave Companions</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>No King</rey>
+			<comandante>No Commander</comandante>
+			<familia/>
+		</defensa>
+	</batalla>
+	<batalla id="31">
+		<nombre>Retaking of Deepwood Motte</nombre>
+		<anio>300</anio>
+		<region>The North</region>
+		<localizacion>Deepwood Motte</localizacion>
+		<ataque tamanio="4500" gana="S">
+			<rey>Stannis Baratheon</rey>
+			<comandante>Stannis Baratheon, Alysane Mormot</comandante>
+			<familia>Baratheon</familia>
+			<familia>Karstark</familia>
+			<familia>Mormont</familia>
+			<familia>Glover</familia>
+		</ataque>
+		<defensa tamanio="200" gana="N">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Asha Greyjoy</comandante>
+			<familia>Greyjoy</familia>
+		</defensa>
+	</batalla>
+	<batalla id="32">
+		<nombre>Battle of the Shield Islands</nombre>
+		<anio>300</anio>
+		<region>The Reach</region>
+		<localizacion>Shield Islands</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Euron Greyjoy, Victarion Greyjoy</comandante>
+			<familia>Greyjoy</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>No Commander</comandante>
+			<familia>Tyrell</familia>
+		</defensa>
+	</batalla>
+	<batalla id="33">
+		<nombre>Invasion of Ryamsport, Vinetown, and Starfish Harbor</nombre>
+		<anio>300</anio>
+		<region>The Reach</region>
+		<localizacion>Ryamsport, Vinetown, Starfish Harbor</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Balon/Euron Greyjoy</rey>
+			<comandante>Euron Greyjoy, Victarion Greyjoy</comandante>
+			<familia>Greyjoy</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>No Commander</comandante>
+			<familia>Tyrell</familia>
+		</defensa>
+	</batalla>
+	<batalla id="34">
+		<nombre>Second Seige of Storm's End</nombre>
+		<anio>300</anio>
+		<region>The Stormlands</region>
+		<localizacion>Storm's End</localizacion>
+		<ataque tamanio="0" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Mace Tyrell, Mathis Rowan</comandante>
+			<familia>Baratheon</familia>
+		</ataque>
+		<defensa tamanio="200" gana="N">
+			<rey>Stannis Baratheon</rey>
+			<comandante>Gilbert Farring</comandante>
+			<familia>Baratheon</familia>
+		</defensa>
+	</batalla>
+	<batalla id="35">
+		<nombre>Siege of Dragonstone</nombre>
+		<anio>300</anio>
+		<region>The Stormlands</region>
+		<localizacion>Dragonstone</localizacion>
+		<ataque tamanio="2000" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Loras Tyrell, Raxter Redwyne</comandante>
+			<familia>Baratheon</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Stannis Baratheon</rey>
+			<comandante>Rolland Storm</comandante>
+			<familia>Baratheon</familia>
+		</defensa>
+	</batalla>
+	<batalla id="36">
+		<nombre>Siege of Riverrun</nombre>
+		<anio>300</anio>
+		<region>The Riverlands</region>
+		<localizacion>Riverrun</localizacion>
+		<ataque tamanio="3000" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Daven Lannister, Ryman Fey, Jaime Lannister</comandante>
+			<familia>Lannister</familia>
+			<familia>Frey</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Brynden Tully</comandante>
+			<familia>Tully</familia>
+		</defensa>
+	</batalla>
+	<batalla id="37">
+		<nombre>Siege of Raventree</nombre>
+		<anio>300</anio>
+		<region>The Riverlands</region>
+		<localizacion>Raventree</localizacion>
+		<ataque tamanio="1500" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Jonos Bracken, Jaime Lannister</comandante>
+			<familia>Bracken</familia>
+			<familia>Lannister</familia>
+		</ataque>
+		<defensa tamanio="0" gana="N">
+			<rey>Robb Stark</rey>
+			<comandante>Tytos Blackwood</comandante>
+			<familia>Blackwood</familia>
+		</defensa>
+	</batalla>
+	<batalla id="38">
+		<nombre>Siege of Winterfell</nombre>
+		<anio>300</anio>
+		<region>The North</region>
+		<localizacion>Winterfell</localizacion>
+		<ataque tamanio="5000" gana="N">
+			<rey>Stannis Baratheon</rey>
+			<comandante>Stannis Baratheon</comandante>
+			<familia>Baratheon</familia>
+			<familia>Karstark</familia>
+			<familia>Mormont</familia>
+			<familia>Glover</familia>
+		</ataque>
+		<defensa tamanio="8000" gana="S">
+			<rey>Joffrey/Tommen Baratheon</rey>
+			<comandante>Roose Bolton</comandante>
+			<familia>Bolton</familia>
+			<familia>Frey</familia>
+		</defensa>
+	</batalla>
+</juego_tronos>
